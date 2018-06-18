@@ -3,5 +3,4 @@ aaaa
 a
 f
 f
-a
 dfa
